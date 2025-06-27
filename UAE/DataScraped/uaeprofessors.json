@@ -1,0 +1,618 @@
+[
+  {
+    "Name": "Dr. Mamoun Awad",
+    "Email": "mamoun.awad@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Prof. Nazar Zaki",
+    "Email": "nzaki@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Dr. Salah Bouktif",
+    "Email": "salahb@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Dr. Moulay E. Badidi",
+    "Email": "ebadidi@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Dr. Leila Ismail",
+    "Email": "leila@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Dr. Mohamed Sharaf",
+    "Email": "msharaf@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Dr. Sherzod Turaev",
+    "Email": "sherzod@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Dr. Fady Al Najjar",
+    "Email": "fady.alnajjar@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Dr. Hany Taher Al Ashwal",
+    "Email": "halashwal@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Dr. Munkhjargal Gochoo",
+    "Email": "mgochoo@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Dr. Yasir Mahmood",
+    "Email": "yasir.mahmood@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Dr. Rafat Damseh",
+    "Email": "rdamseh@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Dr. Mohammed Mediani",
+    "Email": "mohammed.mediani@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Dr. Omar El Harrouss",
+    "Email": "omar.elharrouss@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Dr. Jamil Ahmed",
+    "Email": "jamil.ahmad@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Mrs. Hoda Amer",
+    "Email": "hamer@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Mr. Rawhi Nasser Al Rae",
+    "Email": "Rawhi@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Ms. Fatema M. Alteneiji",
+    "Email": "f.alsuwairi@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Mr. Yassine Bechqito",
+    "Email": "ybechqito@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Mr. Khaled Mohamed Hamdan",
+    "Email": "KHamdan@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Mr. Mused Saleh Al Ward",
+    "Email": "alwardm@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Mr. AbdalRaheem Al Smadi",
+    "Email": "afalsmadi@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Mr. Mhd. Iyad AlMidani",
+    "Email": "iyadm@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Mr. Ahmed Abubakar",
+    "Email": "aabubakar@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Mr. Hassan Nasreddine",
+    "Email": "h.nasreddine@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Dr. Esraa Faisal Gasim",
+    "Email": "Esraa@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Dr. Amer Mohamad Ibrahim",
+    "Email": "amer.ibrahim@uaeu.ac.ae",
+    "University": "UAE University"
+  },
+  {
+    "Name": "Ms. Menatalla Abououf",
+    "Email": "menatalla.abououf@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Dr. Yousof Alhammadi",
+    "Email": "yousof.alhammadi@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Dr. Yousuf Alsalami",
+    "Email": "yousuf.alsalami@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Dr. Hasan Al Marzouqi",
+    "Email": "hasan.almarzouqi@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Dr. Khaled Al Wahedi",
+    "Email": "Khaled.alwahedi@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Dr. Omar Alhussein",
+    "Email": "omar.alhussein@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Dr. Mohammad Alsharid",
+    "Email": "mohammad.alsharid@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Dr. U Zeyar Aung",
+    "Email": "zeyar.aung@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Prof. Hassan Barada",
+    "Email": "hassan.barada@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Prof. Ernesto Damiani",
+    "Email": "ernesto.damiani@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Prof. Khaled ElBassioni",
+    "Email": "khaled.elbassioni@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Dr. Andreas Henschel",
+    "Email": "andreas.henschel@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Dr. Sajid Javed",
+    "Email": "sajid.javed@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Dr. Majid Khonji",
+    "Email": "majid.khonji@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Prof. Panagiotis Liatsis",
+    "Email": "panos.liatsis@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Dr. Rabeb Mizouni",
+    "Email": "rabeb.mizouni@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Mrs. Fatma Mohamed",
+    "Email": "fatma.mohamed@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Dr. Muhammad Muzammal Naseer",
+    "Email": "muhammadmuzammal.naseer@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Prof. Hadi Otrok",
+    "Email": "hadi.otrok@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Dr. Shakti Singh",
+    "Email": "shakti.singh@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Dr. Davor Svetinovic",
+    "Email": "davor.svetinovic@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Dr. Kamal Taha",
+    "Email": "kamal.taha@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Prof. Naoufel Werghi",
+    "Email": "naoufel.werghi@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Dr. Chan Yeun",
+    "Email": "chan.yeun@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Dr. Mohamed Zemerly",
+    "Email": "jamal.zemerly@ku.ac.ae",
+    "University": "Khalifa University"
+  },
+  {
+    "Name": "Professor Gheith Abandah",
+    "Email": "gabandah@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Dr. Ra'afat Abu-Rukba",
+    "Email": "raburukba@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Osama Abuomar",
+    "Email": "oabuomar@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Reham Aburas",
+    "Email": "raburas@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Dr. Alex Abraham Aklson",
+    "Email": "aaklson@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Dr. Anas Al Majali",
+    "Email": "aalmajali@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Dr. Abdulrahman Al-Ali",
+    "Email": "aali@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Dr. Mohamed Alhajri",
+    "Email": "mialhajri@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Dr. Fadi Aloul",
+    "Email": "faloul@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Professor Shadi Banitaan",
+    "Email": "sbanitaan@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Professor Mohammad Daoud",
+    "Email": "mdaoud@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Dana Dghaym",
+    "Email": "ddghaym@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Dr. Salam Dhou",
+    "Email": "sdhou@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Waleed Dweik",
+    "Email": "wdweik@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Dr. Khaled El Fakih",
+    "Email": "kelfakih@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Fazal Hameed",
+    "Email": "fhameed@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Dr. Mohamed Ibrahim",
+    "Email": "meibrahim@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Dr. Taha Landolsi",
+    "Email": "tlandolsi@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Aliaa Moualla",
+    "Email": "amoualla@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Arif Omar",
+    "Email": "oarif@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Dr. Michel Pasquier",
+    "Email": "mpasquier@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Dr. Assim Sagahyroon",
+    "Email": "asagahyroon@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Dr. Tamer Shanableh",
+    "Email": "tshanableh@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Dr. Imran Zualkernan",
+    "Email": "izualkernan@aus.edu",
+    "University": "American University of Sharjah"
+  },
+  {
+    "Name": "Azza Abouzied",
+    "Email": "Azza@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Dena Ahmed",
+    "Email": "dena.ahmed@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Karim Ali",
+    "Email": "karim.ali@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Riyadh Baghdadi",
+    "Email": "baghdadi@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Moumena Chaqfeh",
+    "Email": "moumena@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Djellel Difallah",
+    "Email": "djellel@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "João Paulo Fernandes",
+    "Email": "jpf9731@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Eliseo Ferrante",
+    "Email": "ef2698@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Nizar Habash",
+    "Email": "nizar.habash@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Mohamad Kassab",
+    "Email": "m.kassab@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Reem Mahmoud",
+    "Email": "rm7230@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Arslan Munir",
+    "Email": "arslan.munir@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Sarah Nadi",
+    "Email": "sarah.nadi@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Mai Oudah",
+    "Email": "mai.oudah@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Christina Pöpper",
+    "Email": "cp105@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Thomas Pötsch",
+    "Email": "thomas.poetsch@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Talal Rahwan",
+    "Email": "talal.rahwan@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Saurabh Ray",
+    "Email": "sr194@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Keith W. Ross",
+    "Email": "keithwross@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Hanan Salam",
+    "Email": "hanan.salam@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Dimitrios Touloupas",
+    "Email": "dt2803@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  },
+  {
+    "Name": "Yasir Zaki",
+    "Email": "yz48@nyu.edu",
+    "University": "New York University of Abu Dhabi"
+  }
+,
+  {
+    "Name": "Prof. Adel Khelifi",
+    "Email": "adel.khelifi@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Prof. Mourad Elhadef",
+    "Email": "mourad.elhadef@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Shehzad Ashraf Chaudhry",
+    "Email": "shehzad.ashraf@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Modafar Ati",
+    "Email": "modafar.ati@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Deepa Suresh",
+    "Email": "deepa.suresh@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Moatsum Alawida",
+    "Email": "moatsum.alawida@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Abid Mehmood",
+    "Email": "abid.mehmood@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Murad Al-Rajab",
+    "Email": "murad.al-rajab@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Farid Ibrahim",
+    "Email": "farid.ibrahim@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Muhammad Nasir Mumtaz Bhutta",
+    "Email": "muhammad.bhutta@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Mohamed Elhadad",
+    "Email": "mohamed.elhadad@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Faiza Hashim",
+    "Email": "faiza.hashim@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Rasha Almajed",
+    "Email": "rasha.almajed@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Rabiah Abdeluhamid A. Al-Qudah",
+    "Email": "rabiah.al-qudah@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Latif Khan",
+    "Email": "latif.khan@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Khiati Abdel Ilah Zakaria",
+    "Email": "khiati.zakaria@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Mahmoud Bakkar",
+    "Email": "mahmoud.bakkar@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Osama Alomari",
+    "Email": "osama.alomari@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Mohammed Ghazi Al-Obeidallah",
+    "Email": "mohammed.obeidallah@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Meriem Bettayeb",
+    "Email": "meriem.bettayeb@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Dr. Laiali Almazaydeh",
+    "Email": "laiali.almazaydeh@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Ms. Hamda Fasla",
+    "Email": "hamda.fasla@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Ms. Arooba Khalid Bashir",
+    "Email": "arooba.khalid@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Ms. Rawan Sayed Ali Elabyad",
+    "Email": "rawan.elabyad@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  },
+  {
+    "Name": "Ms. Fatima Mohamed",
+    "Email": "fatima.mohamed@adu.ac.ae",
+    "University": "Abhu Dhabi University"
+  }
+]
