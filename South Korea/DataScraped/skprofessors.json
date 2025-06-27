@@ -1,0 +1,747 @@
+[
+  {
+    "Name": "Byung-Gon Chun",
+    "Email": "bgchun@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Bernhard Egger",
+    "Email": "bernhard@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Hyeonsang Eom",
+    "Email": "hseom@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Chenglin Fan",
+    "Email": "fanchenglin@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Soonhoi Ha",
+    "Email": "sha@iris.snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Chung-Kil Hur",
+    "Email": "gil.hur@sf.snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Seung-won Hwang",
+    "Email": "seungwonh@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Wha Sook Jeon",
+    "Email": "wsjeon@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Hanbyul Joo",
+    "Email": "hbjoo@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "U Kang",
+    "Email": "ukang@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Gunhee Kim",
+    "Email": "gunhee@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Sun Kim",
+    "Email": "sunkim.bioinfo@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Jihong Kim",
+    "Email": "kjihong@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Jin-Soo Kim",
+    "Email": "jinsoo.kim@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Taehyun Kim",
+    "Email": "taehyun@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Taekyoung Kwon",
+    "Email": "tk@mmlab.snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Youngki LEE",
+    "Email": "youngkilee@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Sang-goo Lee",
+    "Email": "sglee@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Jae W. Lee",
+    "Email": "jaewlee@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Jaejin Lee",
+    "Email": "jaejin@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Jehee Lee",
+    "Email": "jehee@mrl.snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Chang-Gun Lee",
+    "Email": "cglee@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Byung-Ro Moon",
+    "Email": "moon@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Bongki Moon",
+    "Email": "bkmoon@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Kunsoo Park",
+    "Email": "kpark@thoery.snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "KyoungSoo Park",
+    "Email": "kyoungsoo@gmail.com",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Jaesik Park",
+    "Email": "jaesik.park@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Jinwook Seo",
+    "Email": "jseo@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Yongsoo Song",
+    "Email": "y.song@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Hyun Oh Song",
+    "Email": "hyunoh@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Jungdam Won",
+    "Email": "nonaxis@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Kwangkeun Yi",
+    "Email": "kwang@ropas.snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Sungjoo Yoo",
+    "Email": "sungjoo.yoo@gmail.com",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Byoung-Tak Zhang",
+    "Email": "btzhang@bi.snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "이의웅",
+    "Email": "luw0315@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "김남승",
+    "Email": "nskim.illinois@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "김정한",
+    "Email": "hmkkim@snu.ac.kr",
+    "University": "Seoul National University"
+  },
+  {
+    "Name": "Kang Byung-Hoon",
+    "Email": "brentkang@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Go In-young",
+    "Email": "iko@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Kim Dae-young",
+    "Email": "kimd@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Kim Min-soo",
+    "Email": "minsoo.k@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Kim Min-hyeok",
+    "Email": "minhkim@vclab.kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Kim Joo-ho",
+    "Email": "juhokim@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Kim Tae-kyun",
+    "Email": "kimtaekyun@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Kim Hyun Woo",
+    "Email": "hyunwoojkim@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Park No-seong",
+    "Email": "noseong@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Park Dae-hyung",
+    "Email": "daehyung@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Park Jong-se",
+    "Email": "jongse@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Park Jong-cheol",
+    "Email": "jongpark@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Baek Jong-moon",
+    "Email": "jbaik@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Seongminhyuk",
+    "Email": "mhsung@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Song Jun-hwa",
+    "Email": "junesong@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Shearing Joseph",
+    "Email": "seering@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "An Seong-jin",
+    "Email": "sungjin.ahn@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Yang Hong-seok",
+    "Email": "hongseok00@gmail.com",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Oh Tae-hyun",
+    "Email": "taehyun.oh@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Oh Hye-yeon",
+    "Email": "alice.oh@kaist.edu",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Yoon Seong's",
+    "Email": "sungeui@gmail.com",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Lee Jae-gil",
+    "Email": "jaegil@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Jo Seong-ho",
+    "Email": "shjo@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "Cha Mi-young",
+    "Email": "meeyoungcha@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "한동수",
+    "Email": "ddsshhan@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "홍승훈",
+    "Email": "seunghoon.hong@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": "황지영",
+    "Email": "jjwhang@kaist.ac.kr",
+    "University": "KAIST"
+  },
+  {
+    "Name": " Hyeoncheol Kim",
+    "Email": "harrykim@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Hyogon Kim",
+    "Email": "hyogon@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Jaehoon Lee",
+    "Email": "ejhoon@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Jinkyu Kim",
+    "Email": "jinkyukim@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "BuRu Chang",
+    "Email": "buru_chang@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Changhee Joo",
+    "Email": "changhee@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Dongsuk Yook",
+    "Email": "yook@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Dongsun Kim",
+    "Email": "darkrsw@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Gunjae Koo",
+    "Email": "gunjaekoo@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "GyeongSik Moon",
+    "Email": "mks0601@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Hyeoncheol Kim",
+    "Email": "harrykim@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Hyogon Kim",
+    "Email": "hyogon@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Jaehoon Lee",
+    "Email": "ejhoon@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Jinkyu Kim",
+    "Email": "jinkyukim@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "BuRu Chang",
+    "Email": "buru_chang@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Changhee Joo",
+    "Email": "changhee@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Dongsuk Yook",
+    "Email": "yook@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Dongsun Kim",
+    "Email": "darkrsw@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Gunjae Koo",
+    "Email": "gunjaekoo@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "GyeongSik Moon",
+    "Email": "mks0601@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Hyeoncheol Kim",
+    "Email": "harrykim@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Hyogon Kim",
+    "Email": "hyogon@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Jaehoon Lee",
+    "Email": "ejhoon@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Jinkyu Kim",
+    "Email": "jinkyukim@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "BuRu Chang",
+    "Email": "buru_chang@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Changhee Joo",
+    "Email": "changhee@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Dongsuk Yook",
+    "Email": "yook@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Dongsun Kim",
+    "Email": "darkrsw@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Gunjae Koo",
+    "Email": "gunjaekoo@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "GyeongSik Moon",
+    "Email": "mks0601@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Hyeoncheol Kim",
+    "Email": "harrykim@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Hyogon Kim",
+    "Email": "hyogon@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Jaehoon Lee",
+    "Email": "ejhoon@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Jinkyu Kim",
+    "Email": "jinkyukim@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "BuRu Chang",
+    "Email": "buru_chang@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Changhee Joo",
+    "Email": "changhee@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Dongsuk Yook",
+    "Email": "yook@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Dongsun Kim",
+    "Email": "darkrsw@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Gunjae Koo",
+    "Email": "gunjaekoo@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "GyeongSik Moon",
+    "Email": "mks0601@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Hyeoncheol Kim",
+    "Email": "harrykim@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Hyogon Kim",
+    "Email": "hyogon@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Jaehoon Lee",
+    "Email": "ejhoon@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": " Jinkyu Kim",
+    "Email": "jinkyukim@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "BuRu Chang",
+    "Email": "buru_chang@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Changhee Joo",
+    "Email": "changhee@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Dongsuk Yook",
+    "Email": "yook@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Dongsun Kim",
+    "Email": "darkrsw@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "Gunjae Koo",
+    "Email": "gunjaekoo@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "GyeongSik Moon",
+    "Email": "mks0601@korea.ac.kr",
+    "University": "Korea University"
+  },
+  {
+    "Name": "JINYEONG BAK",
+    "Email": "jy.bak@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "SOOYOUNG CHA",
+    "Email": "sooyoung.cha@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "YUN GYUNG CHEONG",
+    "Email": "aimecca@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "HYUNGMIN CHO",
+    "Email": "hyungmin.cho@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "JEAMIN CHO",
+    "Email": "jmjo@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "TAEHO CHO",
+    "Email": "thcho@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "HYOUNG-KEE CHOI",
+    "Email": "meosery@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "HYUNSEUNG CHOO",
+    "Email": "choo@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "YOUNG IK EOM",
+    "Email": "yieom@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "HWANSOO HAN",
+    "Email": "hhan@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "JAE-PIL HEO",
+    "Email": "jaepilheo@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "SUNG JAE HWANG",
+    "Email": "sungjaeh@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "JAE HOON JEONG",
+    "Email": "pauljeong@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "HYOUNGSHICK KIM",
+    "Email": "hyoung@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "JAEKWANG KIM",
+    "Email": "linux@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "YUSUNG KIM",
+    "Email": "yskim525@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "YOUNGJOONG KO",
+    "Email": "yjko@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "HYUNG JOON KOO",
+    "Email": "kevin.koo@g.skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "EUNSEOK LEE",
+    "Email": "leees@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "HANKOOK LEE",
+    "Email": "hankook.lee@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "HO JOON LEE",
+    "Email": "hojoon.lee@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "JEE-HYONG LEE",
+    "Email": "john@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "JINKYU LEE",
+    "Email": "jinkyu.lee@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "JONG WUK LEE",
+    "Email": "julee@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "SUN JAE LEE",
+    "Email": "sunjae.lee@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "SUNG KIL LEE",
+    "Email": "sungkil@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "DONGMOON MIN",
+    "Email": "dongmoon.min@skku.edu ",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "HOGUN PARK",
+    "Email": "hogunpark@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "EUI SEONG SEO",
+    "Email": "euiseong@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "KYUHONG SHIM",
+    "Email": "khshim@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "DONG KUN SHIN",
+    "Email": "dongkun@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "ABUHMED TAMER",
+    "Email": "tamer@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "HONGUK WOO",
+    "Email": "hwoo@skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "SIMON SUNGIL WOO",
+    "Email": "swoo@g.skku.edu",
+    "University": "Sungkyunkwan University"
+  },
+  {
+    "Name": "IKJUN YEOM",
+    "Email": "ikjun@skku.edu",
+    "University": "Sungkyunkwan University"
+  }
+]

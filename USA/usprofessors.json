@@ -1,0 +1,1138 @@
+[
+  {
+    "Name": "Hal Abelson",
+    "Email": "hal@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Pulkit Agrawal",
+    "Email": "pulkitag@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Jacob Andreas",
+    "Email": "jda@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Regina Barzilay",
+    "Email": "regina@csail.mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Stephen Bates",
+    "Email": "s_bates@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Sara Beery",
+    "Email": "beery@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Robert Berwick",
+    "Email": "berwick@csail.mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Guy Bresler",
+    "Email": "guy@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Tamara Broderick",
+    "Email": "tamarab@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Connor Wilson Coley",
+    "Email": "ccoley@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Randall Davis",
+    "Email": "davis@csail.mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Priya Donti",
+    "Email": "donti@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Gabriele Farina",
+    "Email": "gfarina@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "William Freeman",
+    "Email": "billf@csail.mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Marzyeh Ghassemi",
+    "Email": "mghassem@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "David Gifford",
+    "Email": "dkg@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Polina Golland",
+    "Email": "polina@csail.mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "W. Eric L Grimson",
+    "Email": "egrimson@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Dylan Hadfield-Menell",
+    "Email": "dylanhm@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Kaiming He",
+    "Email": "kaiming@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Daniel Huttenlocher",
+    "Email": "huttenlocher@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Phillip Isola",
+    "Email": "phillipi@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Tommi Jaakkola",
+    "Email": "tommi@csail.mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Patrick Jaillet",
+    "Email": "jaillet@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Stefanie Jegelka",
+    "Email": "stefje@MIT.EDU",
+    "University": "MIT"
+  },
+  {
+    "Name": "Leslie Kaelbling",
+    "Email": "lpk@csail.mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Manolis Kellis",
+    "Email": "manoli@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Yoon Kim",
+    "Email": "yoonhkim@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Mina Konakovic Lukovic",
+    "Email": "minakl@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Tim Kraska",
+    "Email": "kraska@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Paul Liang",
+    "Email": "ppliang@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Tomas Lozano-Perez",
+    "Email": "tlp@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Samuel Madden",
+    "Email": "madden@csail.mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Aleksander M\u0105dry",
+    "Email": "madry@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Wojciech Matusik",
+    "Email": "wojciech@csail.mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Asu Ozdaglar",
+    "Email": "asuman@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Pablo Parrilo",
+    "Email": "parrilo@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Yury Polyanskiy",
+    "Email": "yp@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Daniela Rus",
+    "Email": "rus@csail.mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Devavrat Shah",
+    "Email": "devavrat@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Vincent Sitzmann",
+    "Email": "sitzmann@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Justin Solomon",
+    "Email": "jsolomon@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "David Sontag",
+    "Email": "dsontag@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Suvrit Sra",
+    "Email": "suvrit@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Gerald Sussman",
+    "Email": "gjs@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Vivienne Sze",
+    "Email": "sze@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Peter Szolovits",
+    "Email": "psz@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Russell Tedrake",
+    "Email": "russt@csail.mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Antonio Torralba",
+    "Email": "torralba@csail.mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Caroline Uhler",
+    "Email": "cuhler@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Vinod Vaikuntanathan",
+    "Email": "vinodv@csail.mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Martin Wainwright",
+    "Email": "mjwain@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Alan Willsky",
+    "Email": "willsky@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Ashia Wilson",
+    "Email": "ashia07@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Gregory Wornell",
+    "Email": "gww@mit.edu",
+    "University": "MIT"
+  },
+  {
+    "Name": "Clark Barrett",
+    "Email": "barrettc@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Gill Bejerano",
+    "Email": "None",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Jeannette Bohg",
+    "Email": "bohg@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Emma Brunskill",
+    "Email": "None",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Ron Dror",
+    "Email": "ron.dror@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Stefano Ermon",
+    "Email": "ermon@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Ron Fedkiw",
+    "Email": "fedkiw@cs.stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Richard Fikes",
+    "Email": "fikes@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Chelsea Finn",
+    "Email": "cbfinn@cs.stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Emily Fox",
+    "Email": "ebfox@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Michael Genesereth",
+    "Email": "genesereth@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Noah Goodman",
+    "Email": "ngoodman@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Carlos Ernesto Guestrin",
+    "Email": "guestrin@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Leonidas Guibas",
+    "Email": "guibas@cs.stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Nicholas Haber",
+    "Email": "nhaber@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Tatsunori Hashimoto",
+    "Email": "thashim@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Thomas Icard",
+    "Email": "icard@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Oussama Khatib",
+    "Email": "KHATIB@CS.stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Fredrik Kjolstad",
+    "Email": "kjolstad@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Mykel Kochenderfer",
+    "Email": "mykel@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Oluwasanmi Koyejo",
+    "Email": "None",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Anshul Kundaje",
+    "Email": "akundaje@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Monica Lam",
+    "Email": "lam@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Jean-Claude Latombe",
+    "Email": "LATOMBE@CS.stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Jure Leskovec",
+    "Email": "jure@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Fei-Fei Li",
+    "Email": "feifeili@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Percy Liang",
+    "Email": "None",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "C. Karen Liu",
+    "Email": "ckliu38@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Tengyu Ma",
+    "Email": "tengyuma@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Christopher Manning",
+    "Email": "manning@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "Azalia Mirhoseini",
+    "Email": "azalia@stanford.edu",
+    "University": "Stanford University"
+  },
+  {
+    "Name": "David Alvarez-Melis",
+    "Email": "dam@seas.harvard.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Nada Amin",
+    "Email": "namin@seas.harvard.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Boaz Barak",
+    "Email": "boaz@seas.harvard.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Kiante Brantley",
+    "Email": "kdbrantley@seas.harvard.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Sitan Chen",
+    "Email": "sitan@seas.harvard.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Yiling Chen",
+    "Email": "yiling@seas.harvard.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Finale Doshi-Velez",
+    "Email": "finale@seas.harvard.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Yilun Du",
+    "Email": "ydu@seas.harvard.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Jonathan Frankle",
+    "Email": "jfrankle@seas.harvard.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Krzysztof Z Gajos",
+    "Email": "kgajos@seas.harvard.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Stephanie Gil",
+    "Email": "sgil@seas.harvard.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Yannai A. Gonczarowski",
+    "Email": "yannaigo@fas.harvard.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Barbara J. Grosz",
+    "Email": "grosz@g.harvard.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Stratos Idreos",
+    "Email": "stratos@seas.harvard.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Lucas B Janson",
+    "Email": "ljanson@fas.harvard.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Sham Kakade",
+    "Email": "sham@seas.harvard.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Hima Lakkaraju",
+    "Email": "hlakkaraju@hbs.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Michael D. Mitzenmacher",
+    "Email": "michaelm@eecs.harvard.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Susan A Murphy",
+    "Email": "samurphy@fas.harvard.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Seth Viren Neel",
+    "Email": "sneel@hbs.edu",
+    "University": "Harvard University"
+  },
+  {
+    "Name": "Yuxin Chen",
+    "Email": "chenyuxin@uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Nick Feamster",
+    "Email": "feamster@uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Michael Franklin",
+    "Email": "mjfranklin@uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Robert Grossman",
+    "Email": "rgrossman1@uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Rana Hanocka",
+    "Email": "ranahanocka@cs.uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Grant Ho",
+    "Email": "grantho@uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Henry Hoffmann",
+    "Email": "hankhoffmann@cs.uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Junchen Jiang",
+    "Email": "junchenj@cs.uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Risi Kondor",
+    "Email": "risi@cs.uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Sanjay Krishnan",
+    "Email": "skr@cs.uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Mina Lee",
+    "Email": "mnlee@cs.uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Tian Li",
+    "Email": "litian@uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Michael Maire",
+    "Email": "mmaire@cs.uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Lorenzo Orecchia",
+    "Email": "orecchia@uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Kexin Pei",
+    "Email": "kpei@uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Chenhao Tan",
+    "Email": "chenhao@uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "David Uminsky",
+    "Email": "uminsky@uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Rebecca Willett",
+    "Email": "willett@uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Haifeng Xu",
+    "Email": "haifengxu@uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Ce Zhang",
+    "Email": "cez@uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Ben Y. Zhao",
+    "Email": "ravenben@cs.uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Heather Zheng",
+    "Email": "htzheng@cs.uchicago.edu",
+    "University": "University of Chicago"
+  },
+  {
+    "Name": "Ryan Adams",
+    "Email": "rpa@cs.princeton.edu",
+    "University": "Princeton University"
+  },
+  {
+    "Name": "Sanjeev Arora",
+    "Email": "arora@cs.princeton.edu",
+    "University": "Princeton University"
+  },
+  {
+    "Name": "Danqi Chen",
+    "Email": "danqic@cs.princeton.edu",
+    "University": "Princeton University"
+  },
+  {
+    "Name": "Tri Dao",
+    "Email": "td8762@cs.princeton.edu",
+    "University": "Princeton University"
+  },
+  {
+    "Name": "Jia Deng",
+    "Email": "jiadeng@cs.princeton.edu",
+    "University": "Princeton University"
+  },
+  {
+    "Name": "Adji Bousso Dieng",
+    "Email": "ad6725@cs.princeton.edu",
+    "University": "Princeton University"
+  },
+  {
+    "Name": "Benjamin Eysenbach",
+    "Email": "eysenbach@cs.princeton.edu",
+    "University": "Princeton University"
+  },
+  {
+    "Name": "Tom Griffiths",
+    "Email": "tomg@cs.princeton.edu",
+    "University": "Princeton University"
+  },
+  {
+    "Name": "Elad Hazan",
+    "Email": "ehazan@cs.princeton.edu",
+    "University": "Princeton University"
+  },
+  {
+    "Name": "Peter Henderson",
+    "Email": "ph4162@cs.princeton.edu",
+    "University": "Princeton University"
+  },
+  {
+    "Name": "Manoel Horta Ribeiro",
+    "Email": "mh3586@cs.princeton.edu",
+    "University": "Princeton University"
+  },
+  {
+    "Name": "Aleksandra Korolova",
+    "Email": "korolova@cs.princeton.edu",
+    "University": "Princeton University"
+  },
+  {
+    "Name": "Lydia Liu",
+    "Email": "ltliu@cs.princeton.edu",
+    "University": "Princeton University"
+  },
+  {
+    "Name": "Zhuang Liu",
+    "Email": "zhuangl@cs.princeton.edu",
+    "University": "Princeton University"
+  },
+  {
+    "Name": "Olga Russakovsky",
+    "Email": "olgarus@cs.princeton.edu",
+    "University": "Princeton University"
+  },
+  {
+    "Name": "Sebastian Seung",
+    "Email": "sseung@cs.princeton.edu",
+    "University": "Princeton University"
+  },
+  {
+    "Name": "Ellen Zhong",
+    "Email": "zhonge@cs.princeton.edu",
+    "University": "Princeton University"
+  },
+  {
+    "Name": "Yang Cai",
+    "Email": "yang.cai@yale.edu",
+    "University": "Yale University"
+  },
+  {
+    "Name": "Arman Cohan",
+    "Email": "arman.cohan@yale.edu",
+    "University": "Yale University"
+  },
+  {
+    "Name": "Ronald Coifman",
+    "Email": "coifman-ronald@yale.edu",
+    "University": "Yale University"
+  },
+  {
+    "Name": "Tesca Fitzgerald",
+    "Email": "tesca.fitzgerald@yale.edu",
+    "University": "Yale University"
+  },
+  {
+    "Name": "Smita Krishnaswamy",
+    "Email": "smita.krishnaswamy@yale.edu",
+    "University": "Yale University"
+  },
+  {
+    "Name": "Alex Lew",
+    "Email": "alexander.lew@yale.edu",
+    "University": "Yale University"
+  },
+  {
+    "Name": "Sohee Park",
+    "Email": "sohee.park@yale.edu",
+    "University": "Yale University"
+  },
+  {
+    "Name": "Daniel Rakita",
+    "Email": "daniel.rakita@yale.edu",
+    "University": "Yale University"
+  },
+  {
+    "Name": "Brian Scassellati",
+    "Email": "brian.scassellati@yale.edu",
+    "University": "Yale University"
+  },
+  {
+    "Name": "Daniel Spielman",
+    "Email": "daniel.spielman@yale.edu",
+    "University": "Yale University"
+  },
+  {
+    "Name": "Marynel V\u00e1zquez",
+    "Email": "marynel.vazquez@yale.edu",
+    "University": "Yale University"
+  },
+  {
+    "Name": "Nisheeth Vishnoi",
+    "Email": "nisheeth.vishnoi@yale.edu",
+    "University": "Yale University"
+  },
+  {
+    "Name": "Andre Wibisono",
+    "Email": "andre.wibisono@yale.edu",
+    "University": "Yale University"
+  },
+  {
+    "Name": "Alex Wong",
+    "Email": "alex.wong@yale.edu",
+    "University": "Yale University"
+  },
+  {
+    "Name": "Rex (Zhitao) Ying",
+    "Email": "rex.ying@yale.edu",
+    "University": "Yale University"
+  },
+  {
+    "Name": "Manolis Zampetakis",
+    "Email": "manolis.zampetakis@yale.edu",
+    "University": "Yale University"
+  },
+  {
+    "Name": "Steven Zucker",
+    "Email": "steven.zucker@yale.edu",
+    "University": "Yale University"
+  },
+  {
+    "Name": "Mohamed Abdelfattah",
+    "Email": "mohamed@cornell.edu",
+    "University": "Cornell University"
+  },
+  {
+    "Name": "Hadar Averbuch-Elor",
+    "Email": "hadarelor@cornell.edu",
+    "University": "Cornell University"
+  },
+  {
+    "Name": "Preston Culbertson",
+    "Email": "pculbert@caltech.edu",
+    "University": "Cornell University"
+  },
+  {
+    "Name": "Sarah Dean",
+    "Email": "sdean@cornell.edu",
+    "University": "Cornell University"
+  },
+  {
+    "Name": "Nikola Banovic",
+    "Email": "nbanovic@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Satinder Singh Baveja",
+    "Email": "baveja@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Elizabeth Bondi-Kelly",
+    "Email": "ecbk@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Joyce Chai",
+    "Email": "chaijy@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Mithun Chakraborty",
+    "Email": "dcsmc@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Michał Dereziński",
+    "Email": "derezin@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Anhong Guo",
+    "Email": "anhong@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Wei Hu",
+    "Email": "vvh@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Farnaz Jahanbakhsh",
+    "Email": "farnaz@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Dhruv Jain",
+    "Email": "profdj@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "David Jurgens",
+    "Email": "jurgens@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Danai Koutra",
+    "Email": "dkoutra@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Sindhu Kutty",
+    "Email": "skutty@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Honglak Lee",
+    "Email": "honglak@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Q. Vera Liao",
+    "Email": "veraliao@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Maggie Makar",
+    "Email": "mmakar@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Rada Mihalcea",
+    "Email": "mihalcea@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Emily Mower Provost",
+    "Email": "emilykmp@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Jeong Joon Park",
+    "Email": "jjparkcv@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Atul Prakash",
+    "Email": "aprakash@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Alexander Rodríguez",
+    "Email": "alrodri@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Lu Wang",
+    "Email": "wangluxy@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Xu Wang",
+    "Email": "xwanghci@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Michael Wellman",
+    "Email": "wellman@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Jenna Wiens",
+    "Email": "wiensj@umich.edu",
+    "University": "University of Michigan"
+  },
+  {
+    "Name": "Stella Yu",
+    "Email": "stellayu@umich.edu",
+    "University": "University of Michigan"
+  }
+,
+  {
+    "Name": "Tom Mitchell",
+    "Email": "tom.mitchell@cmu.edu",
+    "University": "Carnegie Mellon University"
+  },
+  {
+    "Name": "Pat Virtue",
+    "Email": "pvirtue@cs.cmu.edu",
+    "University": "Carnegie Mellon University"
+  },
+  {
+    "Name": "Zico Kolter",
+    "Email": "zkolter@cs.cmu.edu",
+    "University": "Carnegie Mellon University"
+  },
+  {
+    "Name": "Aviral Kumar",
+    "Email": "aviralku@andrew.cmu.edu",
+    "University": "Carnegie Mellon University"
+  },
+  {
+    "Name": "Ann Lee",
+    "Email": "annlee@andrew.cmu.edu",
+    "University": "Carnegie Mellon University"
+  },
+  {
+    "Name": "Sivaraman Balakrishnan",
+    "Email": "siva@stat.cmu.edu",
+    "University": "Carnegie Mellon University"
+  },
+  {
+    "Name": "Henry Chai",
+    "Email": "hchai2@andrew.cmu.edu",
+    "University": "Carnegie Mellon University"
+  },
+  {
+    "Name": "Max Simchowitz",
+    "Email": "msimchow@andrew.cmu.edu",
+    "University": "Carnegie Mellon University"
+  },
+  {
+    "Name": "Roni Rosenfeld",
+    "Email": "roni@cs.cmu.edu",
+    "University": "Carnegie Mellon University"
+  },
+  {
+    "Name": "Larry Wasserman",
+    "Email": "larry@stat.cmu.edu",
+    "University": "Carnegie Mellon University"
+  },
+  {
+    "Name": "Hoda Heidari",
+    "Email": "hheidari@cmu.edu",
+    "University": "Carnegie Mellon University"
+  },
+  {
+    "Name": "Catherine Blake",
+    "Email": "clblake@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Dong Wang",
+    "Email": "dwang24@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Eunice E. Santos",
+    "Email": "eesantos@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Halil Kilicoglu",
+    "Email": "halil@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Haohan Wang",
+    "Email": "haohanw@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Ismini Lourentzou",
+    "Email": "lourent2@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Jiaqi Ma",
+    "Email": "jiaqima@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Jingrui He",
+    "Email": "jingrui@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Jodi Schneider",
+    "Email": "jodi@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "JooYoung Seo",
+    "Email": "jseo1005@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Judith Pintar",
+    "Email": "jpintar@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Junwei Deng",
+    "Email": "junweid2@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Kahyun Choi",
+    "Email": "kahyun@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Nigel Bosch",
+    "Email": "pnb@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Ryan Cordell",
+    "Email": "rcordell@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Sydney Miller",
+    "Email": "srm16@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Ted Underwood",
+    "Email": "tunder@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Yang Wang",
+    "Email": "yvw@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Yang Zhang",
+    "Email": "yzhangnd@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Yaoyao Liu",
+    "Email": "lyy@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Yue Guo",
+    "Email": "yueg@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Zoe LeBlanc",
+    "Email": "zleblanc@illinois.edu",
+    "University": "University of Illinois"
+  },
+  {
+    "Name": "Henrik Christensen",
+    "Email": "hichristensen@ucsd.edu",
+    "University": "University of California"
+  },
+  {
+    "Name": "Jingbo Shang",
+    "Email": "jshang@ucsd.edu",
+    "University": "University of California"
+  }
+]

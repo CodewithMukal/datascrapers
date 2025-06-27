@@ -1,0 +1,66 @@
+Machine Learning
+Deep Learning
+Artificial Intelligence
+Reinforcement Learning
+Supervised Learning
+Unsupervised Learning
+Transfer Learning
+Few-shot Learning
+Zero-shot Learning
+Meta-learning
+Online Learning
+Federated Learning
+Self-supervised Learning
+Convolutional Neural Networks (CNNs)
+Recurrent Neural Networks (RNNs)
+Transformers
+Generative Adversarial Networks (GANs)
+Graph Neural Networks (GNNs)
+Attention Mechanisms
+Neural Architecture Search
+Optimization Techniques in ML
+Stochastic Gradient Descent
+Bayesian Optimization
+Evolutionary Algorithms
+Probabilistic Models
+Causal Inference
+Decision Trees
+Random Forests
+Ensemble Methods
+Computer Vision
+Natural Language Processing (NLP)
+Speech Recognition
+Robotics
+Medical Imaging
+Healthcare AI
+Autonomous Systems
+Recommender Systems
+Human-AI Interaction
+Affective Computing
+Smart Cities
+IoT-based AI
+Finance AI
+Predictive Analytics
+AI for Social Good
+Explainable AI (XAI)
+AI Safety
+Fairness in ML
+Bias in ML
+Trustworthy AI
+Adversarial Machine Learning
+Privacy-Preserving ML
+Secure Federated Learning
+Cognitive Computing
+Artificial General Intelligence (AGI)
+Knowledge Representation
+Reasoning Systems
+Symbolic AI
+Neuro-Symbolic AI
+ML Systems
+Edge AI
+TinyML
+Distributed ML
+Quantum Machine Learning
+Hardware Acceleration for AI
+TPUs
+GPUs

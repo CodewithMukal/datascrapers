@@ -1,0 +1,697 @@
+[
+  {
+    "Name": "Ting CHEN",
+    "Email": "tingchen@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Zhidong DENG",
+    "Email": "michael@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Yuan Feng",
+    "Email": "yuan_feng@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Minlie HUANG",
+    "Email": "aihuang@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Zhengfeng Ji",
+    "Email": "jizhengfeng@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Huaping LIU",
+    "Email": "hpliu@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Yang Liu",
+    "Email": "liuyang2011@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Yiqun LIU",
+    "Email": "yiqunliu@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Shaoping MA",
+    "Email": "msp@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Fuchun SUN",
+    "Email": "fcsun@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Maosong SUN",
+    "Email": "sms@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Mingsheng YING",
+    "Email": "yingmsh@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Bo ZHANG",
+    "Email": "dcszb@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Min ZHANG",
+    "Email": "z-m@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Jun ZHU",
+    "Email": "dcszj@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Qingyao Ai",
+    "Email": "aiqy@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Jianfei Chen",
+    "Email": "jianfei@mail.tsing.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Jianxin Chen",
+    "Email": "chenjianxin@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Xiaolin HU",
+    "Email": "xlhu@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Jianmin LI",
+    "Email": "lijianmin@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Zhiyuan Liu",
+    "Email": "liuzy@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Hang Su",
+    "Email": "suhangss@mail.tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Hongning Wang",
+    "Email": "hw-ai@tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Hua XU",
+    "Email": "xuhua@mail.tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Qiang ZHOU",
+    "Email": "zq-lxd@mail.tsinghua.edu.cn",
+    "University": "Tsinghua University"
+  },
+  {
+    "Name": "Jin Yaohui",
+    "Email": "jinyh@sjtu.edu.cn",
+    "University": "Shanghai Jiao Tong University"
+  },
+  {
+    "Name": "Liu Manhua",
+    "Email": "mhliu@sjtu.edu.cn",
+    "University": "Shanghai Jiao Tong University"
+  },
+  {
+    "Name": "Shen Wei",
+    "Email": "wei.shen@sjtu.edu.cn",
+    "University": "Shanghai Jiao Tong University"
+  },
+  {
+    "Name": "Gao Yue",
+    "Email": "yuegao@sjtu.edu.cn",
+    "University": "Shanghai Jiao Tong University"
+  },
+  {
+    "Name": "Xu Yanyan",
+    "Email": "yanyanxu@sjtu.edu.cn",
+    "University": "Shanghai Jiao Tong University"
+  },
+  {
+    "Name": "Yuan Xiaoyun",
+    "Email": "yuanxiaoyun@sjtu.edu.cn",
+    "University": "Shanghai Jiao Tong University"
+  },
+  {
+    "Name": "Zhuang Yueting",
+    "Email": "yzhuang@zju.edu.cn",
+    "University": "Zhejiang University"
+  },
+  {
+    "Name": "Zheng Xiaolin",
+    "Email": "xlzheng@zju.edu.cn",
+    "University": "Zhejiang University"
+  },
+  {
+    "Name": "Zhang Yin",
+    "Email": "yinzh@zju.edu.cn",
+    "University": "Zhejiang University"
+  },
+  {
+    "Name": "Zhang Yin",
+    "Email": "zhangyin98@zju.edu.cn",
+    "University": "Zhejiang University"
+  },
+  {
+    "Name": "Yuan Xin",
+    "Email": "yxxinyuan@zju.edu.cn",
+    "University": "Zhejiang University"
+  },
+  {
+    "Name": "Xu Duanqing",
+    "Email": "xdq@zju.edu.cn",
+    "University": "Zhejiang University"
+  },
+  {
+    "Name": "Xu Congfu",
+    "Email": "xucongfu@zju.edu.cn",
+    "University": "Zhejiang University"
+  },
+  {
+    "Name": "Xing Wei",
+    "Email": "wxing@zju.edu.cn",
+    "University": "Zhejiang University"
+  },
+  {
+    "Name": "Xiao Jun",
+    "Email": "junx@cs.zju.edu.cn",
+    "University": "Zhejiang University"
+  },
+  {
+    "Name": "Wu Fei",
+    "Email": "wufei@cs.zju.edu.cn",
+    "University": "Zhejiang University"
+  },
+  {
+    "Name": "Weng Yanlin",
+    "Email": "weng@cad.zju.edu.cn",
+    "University": "Zhejiang University"
+  },
+  {
+    "Name": "Wang Donghui",
+    "Email": "dhwang@zju.edu.cn",
+    "University": "Zhejiang University"
+  },
+  {
+    "Name": "Tong Ruofeng",
+    "Email": "trf@zju.edu.cn",
+    "University": "Zhejiang University"
+  },
+  {
+    "Name": "Qian Yuntao",
+    "Email": "ytqian@zju.edu.cn",
+    "University": "Zhejiang University"
+  },
+  {
+    "Name": "Lin Lanfen",
+    "Email": "llf@zju.edu.cn",
+    "University": "Zhejiang University"
+  },
+  {
+    "Name": "Li Xi",
+    "Email": "xilizju@zju.edu.cn",
+    "University": "Zhejiang University"
+  },
+  {
+    "Name": "Mengyu Chu",
+    "Email": "mchu@pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Jinshi Cui",
+    "Email": "cjs@cis.pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "ZhiHong Deng",
+    "Email": "zhdeng@pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Cong Fang",
+    "Email": "fangcong@pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Jufu Feng",
+    "Email": "fjf@cis.pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Di He",
+    "Email": "dihe@pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Tong Lin",
+    "Email": "lintong@pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Zhouchen Lin",
+    "Email": "zlin@pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Libin Liu",
+    "Email": "libin.liu@pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Dingsheng Luo",
+    "Email": "dsluo@pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Xiujun Ma",
+    "Email": "maxj@cis.pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Guojie Song",
+    "Email": "gjsong@pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Ying Tan",
+    "Email": "ytan@pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Liwei Wang",
+    "Email": "wanglw@cis.pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Yisen Wang",
+    "Email": "yisen.wang@pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Xihong Wu",
+    "Email": "wxh@cis.pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Xianghua Ying",
+    "Email": "xhying@cis.pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Gang Zeng",
+    "Email": "gang.zeng@pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Hongbin Zha",
+    "Email": "zha@cis.pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Muhan Zhang",
+    "Email": "muhan@pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Songchun Zhu",
+    "Email": "s.c.zhu@pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Yixin Zhu",
+    "Email": "yixin.zhu@pku.edu.cn",
+    "University": "Peking University"
+  },
+  {
+    "Name": "Yu Jun",
+    "Email": "yujun@hit.edu.cn",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Zhang Zhiguo",
+    "Email": "zhiguozhang@hit.edu.cn",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Li Jiangang",
+    "Email": "jiangang_lee@hit.edu.cn",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Lou  Yunjiang",
+    "Email": "louyj@hit.edu.cn",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Xu  Ruifeng",
+    "Email": "xuruifeng@hit.edu.cn",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Ma Guangfu",
+    "Email": "magf@hit.edu.cn",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Wu Aiguo",
+    "Email": "agwu@hit.edu.cn;",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Zhang Ying",
+    "Email": "zhangyinghit@hit.edu.cn",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Zhang Hongwei",
+    "Email": "hwzhang@hit.edu.cn",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Huang Ruining",
+    "Email": "hrn@hit.edu.cn",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Mei Jie",
+    "Email": "jmei@hit.edu.cn",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Xu Jun",
+    "Email": "xujunqgy@hit.edu.cn",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Dong Gangzhong",
+    "Email": "dongguangzhong@hit.edu.cn",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Long Zhili",
+    "Email": "longworking@163.com",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Li Yanjie",
+    "Email": "autolyj@hit.edu.cn",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Wu Xiaojun",
+    "Email": "wuxj@hit.edu.cn",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Xie Xiaochen",
+    "Email": "xiexiaochen@hit.edu.cn",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Xiong Xiaogang",
+    "Email": "xiongxg@hit.edu.cn",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Hu Liang",
+    "Email": "l.hu@hit.edu.cn",
+    "University": "Harbin Institute of Technology"
+  },
+  {
+    "Name": "Hong Cheng",
+    "Email": "hcheng@se.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Yu Cheng",
+    "Email": "chengyu@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Jackey Cheung",
+    "Email": "jackeycheung@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Qi Dou",
+    "Email": "qdou@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Farzan Farnia",
+    "Email": "farnia@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Chi Wing Fu",
+    "Email": "cwfu@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Pheng Ann Heng",
+    "Email": "pheng@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Tsung-Yi Ho",
+    "Email": "tyho@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Wai-Yiu Keung",
+    "Email": "wykeung@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Irwin King",
+    "Email": "king@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Weiyang Liu",
+    "Email": "wyliu@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Yat Chiu Law",
+    "Email": "yclaw@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Jimmy Ho Man Lee",
+    "Email": "jlee@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Shaohua Li",
+    "Email": "shaohuali@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Yu Li",
+    "Email": "liyu@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Songtao Lu",
+    "Email": "stlu@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Eric Chi Lik Lo",
+    "Email": "ericlo@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "John Chi Shing Lui",
+    "Email": "cslui@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Michael Rung Tsong Lyu",
+    "Email": "lyu@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Sinno Jialin Pan",
+    "Email": "sinnopan@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Lauren Pick",
+    "Email": "pick@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Shi Qiu",
+    "Email": "shiqiu@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Anthony K. W. Sum",
+    "Email": "kwsum@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Colin S. C. Tsang",
+    "Email": "colintsang@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Liwei Wang",
+    "Email": "lwwang@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Qiang Xu",
+    "Email": "qxu@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Evangeline F.Y. Young",
+    "Email": "fyyoung@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Bei Yu",
+    "Email": "byu@cse.cuhk.edu.hk",
+    "University": "Chinese University of Hong Kong"
+  },
+  {
+    "Name": "Hong An",
+    "Email": "han@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Enhong Chen",
+    "Email": "cheneh@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Huanhuan Chen",
+    "Email": "hchen@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Xiaoping Chen",
+    "Email": "xpchen@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Xue Chen",
+    "Email": "xuechen1989@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Xiaohui Cai",
+    "Email": "caixiaohui@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Hu Ding",
+    "Email": "huding@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Nikolaos Freris",
+    "Email": "nfr@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Wei Gong",
+    "Email": "weigong@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Liusheng Huang",
+    "Email": "lshuang@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Xi Li",
+    "Email": "llxx@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Xiang-Yang Li",
+    "Email": "xiangyangli@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Qi Liu",
+    "Email": "qiliuql@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Xianghang Mi",
+    "Email": "xmi@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Guangzhong Sun",
+    "Email": "gzsun@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Shangfei Wang",
+    "Email": "sfwang@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Mingjun Xiao",
+    "Email": "xiaomj@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Yan Xiong",
+    "Email": "yxiong@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Yinlong Xu",
+    "Email": "ylxu@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Yun Xu",
+    "Email": "xuyun@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Lan Zhang",
+    "Email": "zhanglan@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Xinming Zhang",
+    "Email": "xinming@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  },
+  {
+    "Name": "Yanyong Zhang",
+    "Email": "yanyongz@ustc.edu.cn",
+    "University": "University of Electronic Science and Technology"
+  }
+]

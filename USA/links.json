@@ -1,0 +1,18 @@
+{
+    "USA":{
+        "MIT":"https://www.eecs.mit.edu/role/faculty-aid/?fwp_research=artificial-intelligence-machine-learning",
+        "Stanford University":"https://www.cs.stanford.edu/people/faculty-research-focus",
+        "Harvard University":"https://seas.harvard.edu/computer-science/people?research[251]=251&research[1146]=1146",
+        "University of Chicago":"https://computerscience.uchicago.edu/people/uchicago-faculty/full-time-faculty/?_research_fselect=ai-machine-learning",
+        "Princeton University":"https://www.cs.princeton.edu/people/faculty?facultyType=faculty&research=1#faculty-filter",
+        "Yale University":"https://engineering.yale.edu/academic-study/departments/computer-science/research-areas",
+        "Cornell University":"https://www.cs.cornell.edu/people/faculty?combine=&field_research_concentration_tid=143&field_based_in_tid=All&field_faculty_type_tid=All",
+        "University of Michigan":"https://ai.engin.umich.edu/people/",
+        "Carnegie Mellon University":"https://www.ml.cmu.edu/people/core-faculty.html",
+        "University of Illinois":"https://ischool.illinois.edu/research/areas/artificial-intelligence-and-machine-learning",
+        "University of California":"https://ai.ucsd.edu/faculty"
+    },
+    "Russia":{
+        
+    }
+}

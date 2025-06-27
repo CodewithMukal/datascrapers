@@ -1,0 +1,228 @@
+Name,Email,University,Country
+Hal Abelson,hal@mit.edu,MIT,USA
+Pulkit Agrawal,pulkitag@mit.edu,MIT,USA
+Jacob Andreas,jda@mit.edu,MIT,USA
+Regina Barzilay,regina@csail.mit.edu,MIT,USA
+Stephen Bates,s_bates@mit.edu,MIT,USA
+Sara Beery,beery@mit.edu,MIT,USA
+Robert Berwick,berwick@csail.mit.edu,MIT,USA
+Guy Bresler,guy@mit.edu,MIT,USA
+Tamara Broderick,tamarab@mit.edu,MIT,USA
+Connor Wilson Coley,ccoley@mit.edu,MIT,USA
+Randall Davis,davis@csail.mit.edu,MIT,USA
+Priya Donti,donti@mit.edu,MIT,USA
+Gabriele Farina,gfarina@mit.edu,MIT,USA
+William Freeman,billf@csail.mit.edu,MIT,USA
+Marzyeh Ghassemi,mghassem@mit.edu,MIT,USA
+David Gifford,dkg@mit.edu,MIT,USA
+Polina Golland,polina@csail.mit.edu,MIT,USA
+W. Eric L Grimson,egrimson@mit.edu,MIT,USA
+Dylan Hadfield-Menell,dylanhm@mit.edu,MIT,USA
+Kaiming He,kaiming@mit.edu,MIT,USA
+Daniel Huttenlocher,huttenlocher@mit.edu,MIT,USA
+Phillip Isola,phillipi@mit.edu,MIT,USA
+Tommi Jaakkola,tommi@csail.mit.edu,MIT,USA
+Patrick Jaillet,jaillet@mit.edu,MIT,USA
+Stefanie Jegelka,stefje@MIT.EDU,MIT,USA
+Leslie Kaelbling,lpk@csail.mit.edu,MIT,USA
+Manolis Kellis,manoli@mit.edu,MIT,USA
+Yoon Kim,yoonhkim@mit.edu,MIT,USA
+Mina Konakovic Lukovic,minakl@mit.edu,MIT,USA
+Tim Kraska,kraska@mit.edu,MIT,USA
+Paul Liang,ppliang@mit.edu,MIT,USA
+Tomas Lozano-Perez,tlp@mit.edu,MIT,USA
+Samuel Madden,madden@csail.mit.edu,MIT,USA
+Aleksander Mądry,madry@mit.edu,MIT,USA
+Wojciech Matusik,wojciech@csail.mit.edu,MIT,USA
+Asu Ozdaglar,asuman@mit.edu,MIT,USA
+Pablo Parrilo,parrilo@mit.edu,MIT,USA
+Yury Polyanskiy,yp@mit.edu,MIT,USA
+Daniela Rus,rus@csail.mit.edu,MIT,USA
+Devavrat Shah,devavrat@mit.edu,MIT,USA
+Vincent Sitzmann,sitzmann@mit.edu,MIT,USA
+Justin Solomon,jsolomon@mit.edu,MIT,USA
+David Sontag,dsontag@mit.edu,MIT,USA
+Suvrit Sra,suvrit@mit.edu,MIT,USA
+Gerald Sussman,gjs@mit.edu,MIT,USA
+Vivienne Sze,sze@mit.edu,MIT,USA
+Peter Szolovits,psz@mit.edu,MIT,USA
+Russell Tedrake,russt@csail.mit.edu,MIT,USA
+Antonio Torralba,torralba@csail.mit.edu,MIT,USA
+Caroline Uhler,cuhler@mit.edu,MIT,USA
+Vinod Vaikuntanathan,vinodv@csail.mit.edu,MIT,USA
+Martin Wainwright,mjwain@mit.edu,MIT,USA
+Alan Willsky,willsky@mit.edu,MIT,USA
+Ashia Wilson,ashia07@mit.edu,MIT,USA
+Gregory Wornell,gww@mit.edu,MIT,USA
+Clark Barrett,barrettc@stanford.edu,Stanford University,USA
+Gill Bejerano,None,Stanford University,USA
+Jeannette Bohg,bohg@stanford.edu,Stanford University,USA
+Emma Brunskill,None,Stanford University,USA
+Ron Dror,ron.dror@stanford.edu,Stanford University,USA
+Stefano Ermon,ermon@stanford.edu,Stanford University,USA
+Ron Fedkiw,fedkiw@cs.stanford.edu,Stanford University,USA
+Richard Fikes,fikes@stanford.edu,Stanford University,USA
+Chelsea Finn,cbfinn@cs.stanford.edu,Stanford University,USA
+Emily Fox,ebfox@stanford.edu,Stanford University,USA
+Michael Genesereth,genesereth@stanford.edu,Stanford University,USA
+Noah Goodman,ngoodman@stanford.edu,Stanford University,USA
+Carlos Ernesto Guestrin,guestrin@stanford.edu,Stanford University,USA
+Leonidas Guibas,guibas@cs.stanford.edu,Stanford University,USA
+Nicholas Haber,nhaber@stanford.edu,Stanford University,USA
+Tatsunori Hashimoto,thashim@stanford.edu,Stanford University,USA
+Thomas Icard,icard@stanford.edu,Stanford University,USA
+Oussama Khatib,KHATIB@CS.stanford.edu,Stanford University,USA
+Fredrik Kjolstad,kjolstad@stanford.edu,Stanford University,USA
+Mykel Kochenderfer,mykel@stanford.edu,Stanford University,USA
+Oluwasanmi Koyejo,None,Stanford University,USA
+Anshul Kundaje,akundaje@stanford.edu,Stanford University,USA
+Monica Lam,lam@stanford.edu,Stanford University,USA
+Jean-Claude Latombe,LATOMBE@CS.stanford.edu,Stanford University,USA
+Jure Leskovec,jure@stanford.edu,Stanford University,USA
+Fei-Fei Li,feifeili@stanford.edu,Stanford University,USA
+Percy Liang,None,Stanford University,USA
+C. Karen Liu,ckliu38@stanford.edu,Stanford University,USA
+Tengyu Ma,tengyuma@stanford.edu,Stanford University,USA
+Christopher Manning,manning@stanford.edu,Stanford University,USA
+Azalia Mirhoseini,azalia@stanford.edu,Stanford University,USA
+David Alvarez-Melis,dam@seas.harvard.edu,Harvard University,USA
+Nada Amin,namin@seas.harvard.edu,Harvard University,USA
+Boaz Barak,boaz@seas.harvard.edu,Harvard University,USA
+Kiante Brantley,kdbrantley@seas.harvard.edu,Harvard University,USA
+Sitan Chen,sitan@seas.harvard.edu,Harvard University,USA
+Yiling Chen,yiling@seas.harvard.edu,Harvard University,USA
+Finale Doshi-Velez,finale@seas.harvard.edu,Harvard University,USA
+Yilun Du,ydu@seas.harvard.edu,Harvard University,USA
+Jonathan Frankle,jfrankle@seas.harvard.edu,Harvard University,USA
+Krzysztof Z Gajos,kgajos@seas.harvard.edu,Harvard University,USA
+Stephanie Gil,sgil@seas.harvard.edu,Harvard University,USA
+Yannai A. Gonczarowski,yannaigo@fas.harvard.edu,Harvard University,USA
+Barbara J. Grosz,grosz@g.harvard.edu,Harvard University,USA
+Stratos Idreos,stratos@seas.harvard.edu,Harvard University,USA
+Lucas B Janson,ljanson@fas.harvard.edu,Harvard University,USA
+Sham Kakade,sham@seas.harvard.edu,Harvard University,USA
+Hima Lakkaraju,hlakkaraju@hbs.edu,Harvard University,USA
+Michael D. Mitzenmacher,michaelm@eecs.harvard.edu,Harvard University,USA
+Susan A Murphy,samurphy@fas.harvard.edu,Harvard University,USA
+Seth Viren Neel,sneel@hbs.edu,Harvard University,USA
+Yuxin Chen,chenyuxin@uchicago.edu,University of Chicago,USA
+Nick Feamster,feamster@uchicago.edu,University of Chicago,USA
+Michael Franklin,mjfranklin@uchicago.edu,University of Chicago,USA
+Robert Grossman,rgrossman1@uchicago.edu,University of Chicago,USA
+Rana Hanocka,ranahanocka@cs.uchicago.edu,University of Chicago,USA
+Grant Ho,grantho@uchicago.edu,University of Chicago,USA
+Henry Hoffmann,hankhoffmann@cs.uchicago.edu,University of Chicago,USA
+Junchen Jiang,junchenj@cs.uchicago.edu,University of Chicago,USA
+Risi Kondor,risi@cs.uchicago.edu,University of Chicago,USA
+Sanjay Krishnan,skr@cs.uchicago.edu,University of Chicago,USA
+Mina Lee,mnlee@cs.uchicago.edu,University of Chicago,USA
+Tian Li,litian@uchicago.edu,University of Chicago,USA
+Michael Maire,mmaire@cs.uchicago.edu,University of Chicago,USA
+Lorenzo Orecchia,orecchia@uchicago.edu,University of Chicago,USA
+Kexin Pei,kpei@uchicago.edu,University of Chicago,USA
+Chenhao Tan,chenhao@uchicago.edu,University of Chicago,USA
+David Uminsky,uminsky@uchicago.edu,University of Chicago,USA
+Rebecca Willett,willett@uchicago.edu,University of Chicago,USA
+Haifeng Xu,haifengxu@uchicago.edu,University of Chicago,USA
+Ce Zhang,cez@uchicago.edu,University of Chicago,USA
+Ben Y. Zhao,ravenben@cs.uchicago.edu,University of Chicago,USA
+Heather Zheng,htzheng@cs.uchicago.edu,University of Chicago,USA
+Ryan Adams,rpa@cs.princeton.edu,Princeton University,USA
+Sanjeev Arora,arora@cs.princeton.edu,Princeton University,USA
+Danqi Chen,danqic@cs.princeton.edu,Princeton University,USA
+Tri Dao,td8762@cs.princeton.edu,Princeton University,USA
+Jia Deng,jiadeng@cs.princeton.edu,Princeton University,USA
+Adji Bousso Dieng,ad6725@cs.princeton.edu,Princeton University,USA
+Benjamin Eysenbach,eysenbach@cs.princeton.edu,Princeton University,USA
+Tom Griffiths,tomg@cs.princeton.edu,Princeton University,USA
+Elad Hazan,ehazan@cs.princeton.edu,Princeton University,USA
+Peter Henderson,ph4162@cs.princeton.edu,Princeton University,USA
+Manoel Horta Ribeiro,mh3586@cs.princeton.edu,Princeton University,USA
+Aleksandra Korolova,korolova@cs.princeton.edu,Princeton University,USA
+Lydia Liu,ltliu@cs.princeton.edu,Princeton University,USA
+Zhuang Liu,zhuangl@cs.princeton.edu,Princeton University,USA
+Olga Russakovsky,olgarus@cs.princeton.edu,Princeton University,USA
+Sebastian Seung,sseung@cs.princeton.edu,Princeton University,USA
+Ellen Zhong,zhonge@cs.princeton.edu,Princeton University,USA
+Yang Cai,yang.cai@yale.edu,Yale University,USA
+Arman Cohan,arman.cohan@yale.edu,Yale University,USA
+Ronald Coifman,coifman-ronald@yale.edu,Yale University,USA
+Tesca Fitzgerald,tesca.fitzgerald@yale.edu,Yale University,USA
+Smita Krishnaswamy,smita.krishnaswamy@yale.edu,Yale University,USA
+Alex Lew,alexander.lew@yale.edu,Yale University,USA
+Sohee Park,sohee.park@yale.edu,Yale University,USA
+Daniel Rakita,daniel.rakita@yale.edu,Yale University,USA
+Brian Scassellati,brian.scassellati@yale.edu,Yale University,USA
+Daniel Spielman,daniel.spielman@yale.edu,Yale University,USA
+Marynel Vázquez,marynel.vazquez@yale.edu,Yale University,USA
+Nisheeth Vishnoi,nisheeth.vishnoi@yale.edu,Yale University,USA
+Andre Wibisono,andre.wibisono@yale.edu,Yale University,USA
+Alex Wong,alex.wong@yale.edu,Yale University,USA
+Rex (Zhitao) Ying,rex.ying@yale.edu,Yale University,USA
+Manolis Zampetakis,manolis.zampetakis@yale.edu,Yale University,USA
+Steven Zucker,steven.zucker@yale.edu,Yale University,USA
+Mohamed Abdelfattah,mohamed@cornell.edu,Cornell University,USA
+Hadar Averbuch-Elor,hadarelor@cornell.edu,Cornell University,USA
+Preston Culbertson,pculbert@caltech.edu,Cornell University,USA
+Sarah Dean,sdean@cornell.edu,Cornell University,USA
+Nikola Banovic,nbanovic@umich.edu,University of Michigan,USA
+Satinder Singh Baveja,baveja@umich.edu,University of Michigan,USA
+Elizabeth Bondi-Kelly,ecbk@umich.edu,University of Michigan,USA
+Joyce Chai,chaijy@umich.edu,University of Michigan,USA
+Mithun Chakraborty,dcsmc@umich.edu,University of Michigan,USA
+Michał Dereziński,derezin@umich.edu,University of Michigan,USA
+Anhong Guo,anhong@umich.edu,University of Michigan,USA
+Wei Hu,vvh@umich.edu,University of Michigan,USA
+Farnaz Jahanbakhsh,farnaz@umich.edu,University of Michigan,USA
+Dhruv Jain,profdj@umich.edu,University of Michigan,USA
+David Jurgens,jurgens@umich.edu,University of Michigan,USA
+Danai Koutra,dkoutra@umich.edu,University of Michigan,USA
+Sindhu Kutty,skutty@umich.edu,University of Michigan,USA
+Honglak Lee,honglak@umich.edu,University of Michigan,USA
+Q. Vera Liao,veraliao@umich.edu,University of Michigan,USA
+Maggie Makar,mmakar@umich.edu,University of Michigan,USA
+Rada Mihalcea,mihalcea@umich.edu,University of Michigan,USA
+Emily Mower Provost,emilykmp@umich.edu,University of Michigan,USA
+Jeong Joon Park,jjparkcv@umich.edu,University of Michigan,USA
+Atul Prakash,aprakash@umich.edu,University of Michigan,USA
+Alexander Rodríguez,alrodri@umich.edu,University of Michigan,USA
+Lu Wang,wangluxy@umich.edu,University of Michigan,USA
+Xu Wang,xwanghci@umich.edu,University of Michigan,USA
+Michael Wellman,wellman@umich.edu,University of Michigan,USA
+Jenna Wiens,wiensj@umich.edu,University of Michigan,USA
+Stella Yu,stellayu@umich.edu,University of Michigan,USA
+Tom Mitchell,tom.mitchell@cmu.edu,Carnegie Mellon University,USA
+Pat Virtue,pvirtue@cs.cmu.edu,Carnegie Mellon University,USA
+Zico Kolter,zkolter@cs.cmu.edu,Carnegie Mellon University,USA
+Aviral Kumar,aviralku@andrew.cmu.edu,Carnegie Mellon University,USA
+Ann Lee,annlee@andrew.cmu.edu,Carnegie Mellon University,USA
+Sivaraman Balakrishnan,siva@stat.cmu.edu,Carnegie Mellon University,USA
+Henry Chai,hchai2@andrew.cmu.edu,Carnegie Mellon University,USA
+Max Simchowitz,msimchow@andrew.cmu.edu,Carnegie Mellon University,USA
+Roni Rosenfeld,roni@cs.cmu.edu,Carnegie Mellon University,USA
+Larry Wasserman,larry@stat.cmu.edu,Carnegie Mellon University,USA
+Hoda Heidari,hheidari@cmu.edu,Carnegie Mellon University,USA
+Catherine Blake,clblake@illinois.edu,University of Illinois,USA
+Dong Wang,dwang24@illinois.edu,University of Illinois,USA
+Eunice E. Santos,eesantos@illinois.edu,University of Illinois,USA
+Halil Kilicoglu,halil@illinois.edu,University of Illinois,USA
+Haohan Wang,haohanw@illinois.edu,University of Illinois,USA
+Ismini Lourentzou,lourent2@illinois.edu,University of Illinois,USA
+Jiaqi Ma,jiaqima@illinois.edu,University of Illinois,USA
+Jingrui He,jingrui@illinois.edu,University of Illinois,USA
+Jodi Schneider,jodi@illinois.edu,University of Illinois,USA
+JooYoung Seo,jseo1005@illinois.edu,University of Illinois,USA
+Judith Pintar,jpintar@illinois.edu,University of Illinois,USA
+Junwei Deng,junweid2@illinois.edu,University of Illinois,USA
+Kahyun Choi,kahyun@illinois.edu,University of Illinois,USA
+Nigel Bosch,pnb@illinois.edu,University of Illinois,USA
+Ryan Cordell,rcordell@illinois.edu,University of Illinois,USA
+Sydney Miller,srm16@illinois.edu,University of Illinois,USA
+Ted Underwood,tunder@illinois.edu,University of Illinois,USA
+Yang Wang,yvw@illinois.edu,University of Illinois,USA
+Yang Zhang,yzhangnd@illinois.edu,University of Illinois,USA
+Yaoyao Liu,lyy@illinois.edu,University of Illinois,USA
+Yue Guo,yueg@illinois.edu,University of Illinois,USA
+Zoe LeBlanc,zleblanc@illinois.edu,University of Illinois,USA
+Henrik Christensen,hichristensen@ucsd.edu,University of California,USA
+Jingbo Shang,jshang@ucsd.edu,University of California,USA
